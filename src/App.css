@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+.btnDiv{
+  border: 2px solid gold;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  gap: 10px;
+}
+
+.btn{
+  background-color: darkslategray;
+}
+
+.newCard{
+  border: 2px solid gold;
+}
+
+.userTitle{
+  border: 2px solid grey;
+}
+
+.userList{
+  border: 2px solid red;
+}
